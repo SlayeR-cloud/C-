@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\OOP\Classes\AutoImplementedProperties\AutoIS\AutoIC\bin\Debug\net5.0\AutoIC.exe
+C:\Programming\C#\HelloWorld\OOP\Classes\AutoImplementedProperties\AutoIS\AutoIC\bin\Debug\net5.0\AutoIC.deps.json
+C:\Programming\C#\HelloWorld\OOP\Classes\AutoImplementedProperties\AutoIS\AutoIC\bin\Debug\net5.0\AutoIC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\OOP\Classes\AutoImplementedProperties\AutoIS\AutoIC\bin\Debug\net5.0\AutoIC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\OOP\Classes\AutoImplementedProperties\AutoIS\AutoIC\bin\Debug\net5.0\AutoIC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\AutoImplementedProperties\AutoIS\AutoIC\bin\Debug\net5.0\ref\AutoIC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\AutoImplementedProperties\AutoIS\AutoIC\bin\Debug\net5.0\AutoIC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\AutoImplementedProperties\AutoIS\AutoIC\obj\Debug\net5.0\AutoIC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\AutoImplementedProperties\AutoIS\AutoIC\obj\Debug\net5.0\AutoIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\OOP\Classes\AutoImplementedProperties\AutoIS\AutoIC\obj\Debug\net5.0\AutoIC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\AutoImplementedProperties\AutoIS\AutoIC\obj\Debug\net5.0\AutoIC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\OOP\Classes\AutoImplementedProperties\AutoIS\AutoIC\obj\Debug\net5.0\AutoIC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\AutoImplementedProperties\AutoIS\AutoIC\obj\Debug\net5.0\AutoIC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\AutoImplementedProperties\AutoIS\AutoIC\obj\Debug\net5.0\ref\AutoIC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\AutoImplementedProperties\AutoIS\AutoIC\obj\Debug\net5.0\AutoIC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\AutoImplementedProperties\AutoIS\AutoIC\obj\Debug\net5.0\AutoIC.genruntimeconfig.cache

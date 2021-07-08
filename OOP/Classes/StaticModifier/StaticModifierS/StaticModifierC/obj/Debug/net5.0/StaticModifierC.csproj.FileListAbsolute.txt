@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\OOP\Classes\StaticModifier\StaticModifierS\StaticModifierC\bin\Debug\net5.0\StaticModifierC.exe
+C:\Programming\C#\HelloWorld\OOP\Classes\StaticModifier\StaticModifierS\StaticModifierC\bin\Debug\net5.0\StaticModifierC.deps.json
+C:\Programming\C#\HelloWorld\OOP\Classes\StaticModifier\StaticModifierS\StaticModifierC\bin\Debug\net5.0\StaticModifierC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\OOP\Classes\StaticModifier\StaticModifierS\StaticModifierC\bin\Debug\net5.0\StaticModifierC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\OOP\Classes\StaticModifier\StaticModifierS\StaticModifierC\bin\Debug\net5.0\StaticModifierC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\StaticModifier\StaticModifierS\StaticModifierC\bin\Debug\net5.0\ref\StaticModifierC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\StaticModifier\StaticModifierS\StaticModifierC\bin\Debug\net5.0\StaticModifierC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\StaticModifier\StaticModifierS\StaticModifierC\obj\Debug\net5.0\StaticModifierC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\StaticModifier\StaticModifierS\StaticModifierC\obj\Debug\net5.0\StaticModifierC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\OOP\Classes\StaticModifier\StaticModifierS\StaticModifierC\obj\Debug\net5.0\StaticModifierC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\StaticModifier\StaticModifierS\StaticModifierC\obj\Debug\net5.0\StaticModifierC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\OOP\Classes\StaticModifier\StaticModifierS\StaticModifierC\obj\Debug\net5.0\StaticModifierC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\StaticModifier\StaticModifierS\StaticModifierC\obj\Debug\net5.0\StaticModifierC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\StaticModifier\StaticModifierS\StaticModifierC\obj\Debug\net5.0\ref\StaticModifierC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\StaticModifier\StaticModifierS\StaticModifierC\obj\Debug\net5.0\StaticModifierC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\StaticModifier\StaticModifierS\StaticModifierC\obj\Debug\net5.0\StaticModifierC.genruntimeconfig.cache

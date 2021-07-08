@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\OOP\Classes\Interfaces\InterfacesS\InterfacesC\bin\Debug\net5.0\InterfacesC.exe
+C:\Programming\C#\HelloWorld\OOP\Classes\Interfaces\InterfacesS\InterfacesC\bin\Debug\net5.0\InterfacesC.deps.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Interfaces\InterfacesS\InterfacesC\bin\Debug\net5.0\InterfacesC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Interfaces\InterfacesS\InterfacesC\bin\Debug\net5.0\InterfacesC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Interfaces\InterfacesS\InterfacesC\bin\Debug\net5.0\InterfacesC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Interfaces\InterfacesS\InterfacesC\bin\Debug\net5.0\ref\InterfacesC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Interfaces\InterfacesS\InterfacesC\bin\Debug\net5.0\InterfacesC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\Interfaces\InterfacesS\InterfacesC\obj\Debug\net5.0\InterfacesC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Interfaces\InterfacesS\InterfacesC\obj\Debug\net5.0\InterfacesC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\OOP\Classes\Interfaces\InterfacesS\InterfacesC\obj\Debug\net5.0\InterfacesC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Interfaces\InterfacesS\InterfacesC\obj\Debug\net5.0\InterfacesC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\OOP\Classes\Interfaces\InterfacesS\InterfacesC\obj\Debug\net5.0\InterfacesC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Interfaces\InterfacesS\InterfacesC\obj\Debug\net5.0\InterfacesC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Interfaces\InterfacesS\InterfacesC\obj\Debug\net5.0\ref\InterfacesC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Interfaces\InterfacesS\InterfacesC\obj\Debug\net5.0\InterfacesC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\Interfaces\InterfacesS\InterfacesC\obj\Debug\net5.0\InterfacesC.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Programming\C#\HelloWorld\SwitchCase\SwitchCase\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.exe
+C:\Programming\C#\HelloWorld\SwitchCase\SwitchCase\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.deps.json
+C:\Programming\C#\HelloWorld\SwitchCase\SwitchCase\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.json
+C:\Programming\C#\HelloWorld\SwitchCase\SwitchCase\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\SwitchCase\SwitchCase\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Programming\C#\HelloWorld\SwitchCase\SwitchCase\SwitchCase\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.pdb
+C:\Programming\C#\HelloWorld\SwitchCase\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\SwitchCase\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\SwitchCase\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\SwitchCase\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\SwitchCase\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Programming\C#\HelloWorld\SwitchCase\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.pdb
+C:\Programming\C#\HelloWorld\SwitchCase\SwitchCase\SwitchCase\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.genruntimeconfig.cache

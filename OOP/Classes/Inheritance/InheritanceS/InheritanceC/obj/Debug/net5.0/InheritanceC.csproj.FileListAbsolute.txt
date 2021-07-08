@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\OOP\Classes\Inheritance\InheritanceS\InheritanceC\bin\Debug\net5.0\InheritanceC.exe
+C:\Programming\C#\HelloWorld\OOP\Classes\Inheritance\InheritanceS\InheritanceC\bin\Debug\net5.0\InheritanceC.deps.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Inheritance\InheritanceS\InheritanceC\bin\Debug\net5.0\InheritanceC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Inheritance\InheritanceS\InheritanceC\bin\Debug\net5.0\InheritanceC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Inheritance\InheritanceS\InheritanceC\bin\Debug\net5.0\InheritanceC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Inheritance\InheritanceS\InheritanceC\bin\Debug\net5.0\ref\InheritanceC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Inheritance\InheritanceS\InheritanceC\bin\Debug\net5.0\InheritanceC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\Inheritance\InheritanceS\InheritanceC\obj\Debug\net5.0\InheritanceC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Inheritance\InheritanceS\InheritanceC\obj\Debug\net5.0\InheritanceC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\OOP\Classes\Inheritance\InheritanceS\InheritanceC\obj\Debug\net5.0\InheritanceC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Inheritance\InheritanceS\InheritanceC\obj\Debug\net5.0\InheritanceC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\OOP\Classes\Inheritance\InheritanceS\InheritanceC\obj\Debug\net5.0\InheritanceC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Inheritance\InheritanceS\InheritanceC\obj\Debug\net5.0\InheritanceC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Inheritance\InheritanceS\InheritanceC\obj\Debug\net5.0\ref\InheritanceC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Inheritance\InheritanceS\InheritanceC\obj\Debug\net5.0\InheritanceC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\Inheritance\InheritanceS\InheritanceC\obj\Debug\net5.0\InheritanceC.genruntimeconfig.cache

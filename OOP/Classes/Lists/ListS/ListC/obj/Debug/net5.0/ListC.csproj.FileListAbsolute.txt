@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\OOP\Classes\Lists\ListS\ListC\bin\Debug\net5.0\ListC.exe
+C:\Programming\C#\HelloWorld\OOP\Classes\Lists\ListS\ListC\bin\Debug\net5.0\ListC.deps.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Lists\ListS\ListC\bin\Debug\net5.0\ListC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Lists\ListS\ListC\bin\Debug\net5.0\ListC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Lists\ListS\ListC\bin\Debug\net5.0\ListC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Lists\ListS\ListC\bin\Debug\net5.0\ref\ListC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Lists\ListS\ListC\bin\Debug\net5.0\ListC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\Lists\ListS\ListC\obj\Debug\net5.0\ListC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Lists\ListS\ListC\obj\Debug\net5.0\ListC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\OOP\Classes\Lists\ListS\ListC\obj\Debug\net5.0\ListC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Lists\ListS\ListC\obj\Debug\net5.0\ListC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\OOP\Classes\Lists\ListS\ListC\obj\Debug\net5.0\ListC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Lists\ListS\ListC\obj\Debug\net5.0\ListC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Lists\ListS\ListC\obj\Debug\net5.0\ref\ListC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Lists\ListS\ListC\obj\Debug\net5.0\ListC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\Lists\ListS\ListC\obj\Debug\net5.0\ListC.genruntimeconfig.cache

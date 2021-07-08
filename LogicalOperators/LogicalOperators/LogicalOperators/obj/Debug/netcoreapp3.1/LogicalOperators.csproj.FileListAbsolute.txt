@@ -1,0 +1,13 @@
+C:\Programming\C#\HelloWorld\LogicalOperators\LogicalOperators\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.exe
+C:\Programming\C#\HelloWorld\LogicalOperators\LogicalOperators\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.deps.json
+C:\Programming\C#\HelloWorld\LogicalOperators\LogicalOperators\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.runtimeconfig.json
+C:\Programming\C#\HelloWorld\LogicalOperators\LogicalOperators\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\LogicalOperators\LogicalOperators\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.dll
+C:\Programming\C#\HelloWorld\LogicalOperators\LogicalOperators\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.pdb
+C:\Programming\C#\HelloWorld\LogicalOperators\LogicalOperators\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\LogicalOperators\LogicalOperators\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\LogicalOperators\LogicalOperators\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\LogicalOperators\LogicalOperators\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\LogicalOperators\LogicalOperators\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.dll
+C:\Programming\C#\HelloWorld\LogicalOperators\LogicalOperators\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.pdb
+C:\Programming\C#\HelloWorld\LogicalOperators\LogicalOperators\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.genruntimeconfig.cache

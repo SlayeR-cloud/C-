@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\OOP\Classes\ToStringMethod\ToStringS\ToStringC\bin\Debug\net5.0\ToStringC.exe
+C:\Programming\C#\HelloWorld\OOP\Classes\ToStringMethod\ToStringS\ToStringC\bin\Debug\net5.0\ToStringC.deps.json
+C:\Programming\C#\HelloWorld\OOP\Classes\ToStringMethod\ToStringS\ToStringC\bin\Debug\net5.0\ToStringC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\OOP\Classes\ToStringMethod\ToStringS\ToStringC\bin\Debug\net5.0\ToStringC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\OOP\Classes\ToStringMethod\ToStringS\ToStringC\bin\Debug\net5.0\ToStringC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\ToStringMethod\ToStringS\ToStringC\bin\Debug\net5.0\ref\ToStringC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\ToStringMethod\ToStringS\ToStringC\bin\Debug\net5.0\ToStringC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\ToStringMethod\ToStringS\ToStringC\obj\Debug\net5.0\ToStringC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\ToStringMethod\ToStringS\ToStringC\obj\Debug\net5.0\ToStringC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\OOP\Classes\ToStringMethod\ToStringS\ToStringC\obj\Debug\net5.0\ToStringC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\ToStringMethod\ToStringS\ToStringC\obj\Debug\net5.0\ToStringC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\OOP\Classes\ToStringMethod\ToStringS\ToStringC\obj\Debug\net5.0\ToStringC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\ToStringMethod\ToStringS\ToStringC\obj\Debug\net5.0\ToStringC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\ToStringMethod\ToStringS\ToStringC\obj\Debug\net5.0\ref\ToStringC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\ToStringMethod\ToStringS\ToStringC\obj\Debug\net5.0\ToStringC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\ToStringMethod\ToStringS\ToStringC\obj\Debug\net5.0\ToStringC.genruntimeconfig.cache

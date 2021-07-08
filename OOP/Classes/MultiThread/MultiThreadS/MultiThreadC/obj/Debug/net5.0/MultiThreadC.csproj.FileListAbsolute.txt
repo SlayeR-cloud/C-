@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\OOP\Classes\MultiThread\MultiThreadS\MultiThreadC\bin\Debug\net5.0\MultiThreadC.exe
+C:\Programming\C#\HelloWorld\OOP\Classes\MultiThread\MultiThreadS\MultiThreadC\bin\Debug\net5.0\MultiThreadC.deps.json
+C:\Programming\C#\HelloWorld\OOP\Classes\MultiThread\MultiThreadS\MultiThreadC\bin\Debug\net5.0\MultiThreadC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\OOP\Classes\MultiThread\MultiThreadS\MultiThreadC\bin\Debug\net5.0\MultiThreadC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\OOP\Classes\MultiThread\MultiThreadS\MultiThreadC\bin\Debug\net5.0\MultiThreadC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\MultiThread\MultiThreadS\MultiThreadC\bin\Debug\net5.0\ref\MultiThreadC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\MultiThread\MultiThreadS\MultiThreadC\bin\Debug\net5.0\MultiThreadC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\MultiThread\MultiThreadS\MultiThreadC\obj\Debug\net5.0\MultiThreadC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\MultiThread\MultiThreadS\MultiThreadC\obj\Debug\net5.0\MultiThreadC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\OOP\Classes\MultiThread\MultiThreadS\MultiThreadC\obj\Debug\net5.0\MultiThreadC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\MultiThread\MultiThreadS\MultiThreadC\obj\Debug\net5.0\MultiThreadC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\OOP\Classes\MultiThread\MultiThreadS\MultiThreadC\obj\Debug\net5.0\MultiThreadC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\MultiThread\MultiThreadS\MultiThreadC\obj\Debug\net5.0\MultiThreadC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\MultiThread\MultiThreadS\MultiThreadC\obj\Debug\net5.0\ref\MultiThreadC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\MultiThread\MultiThreadS\MultiThreadC\obj\Debug\net5.0\MultiThreadC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\MultiThread\MultiThreadS\MultiThreadC\obj\Debug\net5.0\MultiThreadC.genruntimeconfig.cache

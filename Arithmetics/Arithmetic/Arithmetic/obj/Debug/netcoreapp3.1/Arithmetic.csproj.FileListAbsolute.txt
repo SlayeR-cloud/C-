@@ -1,0 +1,13 @@
+C:\Programming\C#\HelloWorld\Arithmetics\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.exe
+C:\Programming\C#\HelloWorld\Arithmetics\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.deps.json
+C:\Programming\C#\HelloWorld\Arithmetics\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.runtimeconfig.json
+C:\Programming\C#\HelloWorld\Arithmetics\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\Arithmetics\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.dll
+C:\Programming\C#\HelloWorld\Arithmetics\Arithmetic\Arithmetic\bin\Debug\netcoreapp3.1\Arithmetic.pdb
+C:\Programming\C#\HelloWorld\Arithmetics\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\Arithmetics\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\Arithmetics\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\Arithmetics\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\Arithmetics\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.dll
+C:\Programming\C#\HelloWorld\Arithmetics\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.pdb
+C:\Programming\C#\HelloWorld\Arithmetics\Arithmetic\Arithmetic\obj\Debug\netcoreapp3.1\Arithmetic.genruntimeconfig.cache

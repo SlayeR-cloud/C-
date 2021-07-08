@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\MultidimensionalArrays\MultiDimensionalS\MultiDimensionalC\bin\Debug\net5.0\MultiDimensionalC.exe
+C:\Programming\C#\HelloWorld\MultidimensionalArrays\MultiDimensionalS\MultiDimensionalC\bin\Debug\net5.0\MultiDimensionalC.deps.json
+C:\Programming\C#\HelloWorld\MultidimensionalArrays\MultiDimensionalS\MultiDimensionalC\bin\Debug\net5.0\MultiDimensionalC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\MultidimensionalArrays\MultiDimensionalS\MultiDimensionalC\bin\Debug\net5.0\MultiDimensionalC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\MultidimensionalArrays\MultiDimensionalS\MultiDimensionalC\bin\Debug\net5.0\MultiDimensionalC.dll
+C:\Programming\C#\HelloWorld\MultidimensionalArrays\MultiDimensionalS\MultiDimensionalC\bin\Debug\net5.0\ref\MultiDimensionalC.dll
+C:\Programming\C#\HelloWorld\MultidimensionalArrays\MultiDimensionalS\MultiDimensionalC\bin\Debug\net5.0\MultiDimensionalC.pdb
+C:\Programming\C#\HelloWorld\MultidimensionalArrays\MultiDimensionalS\MultiDimensionalC\obj\Debug\net5.0\MultiDimensionalC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\MultidimensionalArrays\MultiDimensionalS\MultiDimensionalC\obj\Debug\net5.0\MultiDimensionalC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\MultidimensionalArrays\MultiDimensionalS\MultiDimensionalC\obj\Debug\net5.0\MultiDimensionalC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\MultidimensionalArrays\MultiDimensionalS\MultiDimensionalC\obj\Debug\net5.0\MultiDimensionalC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\MultidimensionalArrays\MultiDimensionalS\MultiDimensionalC\obj\Debug\net5.0\MultiDimensionalC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\MultidimensionalArrays\MultiDimensionalS\MultiDimensionalC\obj\Debug\net5.0\MultiDimensionalC.dll
+C:\Programming\C#\HelloWorld\MultidimensionalArrays\MultiDimensionalS\MultiDimensionalC\obj\Debug\net5.0\ref\MultiDimensionalC.dll
+C:\Programming\C#\HelloWorld\MultidimensionalArrays\MultiDimensionalS\MultiDimensionalC\obj\Debug\net5.0\MultiDimensionalC.pdb
+C:\Programming\C#\HelloWorld\MultidimensionalArrays\MultiDimensionalS\MultiDimensionalC\obj\Debug\net5.0\MultiDimensionalC.genruntimeconfig.cache

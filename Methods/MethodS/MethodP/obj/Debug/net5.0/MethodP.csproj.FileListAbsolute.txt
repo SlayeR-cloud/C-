@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\Methods\MethodS\MethodP\bin\Debug\net5.0\MethodP.exe
+C:\Programming\C#\HelloWorld\Methods\MethodS\MethodP\bin\Debug\net5.0\MethodP.deps.json
+C:\Programming\C#\HelloWorld\Methods\MethodS\MethodP\bin\Debug\net5.0\MethodP.runtimeconfig.json
+C:\Programming\C#\HelloWorld\Methods\MethodS\MethodP\bin\Debug\net5.0\MethodP.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\Methods\MethodS\MethodP\bin\Debug\net5.0\MethodP.dll
+C:\Programming\C#\HelloWorld\Methods\MethodS\MethodP\bin\Debug\net5.0\ref\MethodP.dll
+C:\Programming\C#\HelloWorld\Methods\MethodS\MethodP\bin\Debug\net5.0\MethodP.pdb
+C:\Programming\C#\HelloWorld\Methods\MethodS\MethodP\obj\Debug\net5.0\MethodP.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\Methods\MethodS\MethodP\obj\Debug\net5.0\MethodP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\Methods\MethodS\MethodP\obj\Debug\net5.0\MethodP.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\Methods\MethodS\MethodP\obj\Debug\net5.0\MethodP.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\Methods\MethodS\MethodP\obj\Debug\net5.0\MethodP.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\Methods\MethodS\MethodP\obj\Debug\net5.0\MethodP.dll
+C:\Programming\C#\HelloWorld\Methods\MethodS\MethodP\obj\Debug\net5.0\ref\MethodP.dll
+C:\Programming\C#\HelloWorld\Methods\MethodS\MethodP\obj\Debug\net5.0\MethodP.pdb
+C:\Programming\C#\HelloWorld\Methods\MethodS\MethodP\obj\Debug\net5.0\MethodP.genruntimeconfig.cache

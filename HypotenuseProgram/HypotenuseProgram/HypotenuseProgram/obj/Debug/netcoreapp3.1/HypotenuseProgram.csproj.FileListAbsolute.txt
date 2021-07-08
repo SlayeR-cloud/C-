@@ -1,0 +1,13 @@
+C:\Programming\C#\HelloWorld\HypotenuseProgram\HypotenuseProgram\HypotenuseProgram\bin\Debug\netcoreapp3.1\HypotenuseProgram.exe
+C:\Programming\C#\HelloWorld\HypotenuseProgram\HypotenuseProgram\HypotenuseProgram\bin\Debug\netcoreapp3.1\HypotenuseProgram.deps.json
+C:\Programming\C#\HelloWorld\HypotenuseProgram\HypotenuseProgram\HypotenuseProgram\bin\Debug\netcoreapp3.1\HypotenuseProgram.runtimeconfig.json
+C:\Programming\C#\HelloWorld\HypotenuseProgram\HypotenuseProgram\HypotenuseProgram\bin\Debug\netcoreapp3.1\HypotenuseProgram.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\HypotenuseProgram\HypotenuseProgram\HypotenuseProgram\bin\Debug\netcoreapp3.1\HypotenuseProgram.dll
+C:\Programming\C#\HelloWorld\HypotenuseProgram\HypotenuseProgram\HypotenuseProgram\bin\Debug\netcoreapp3.1\HypotenuseProgram.pdb
+C:\Programming\C#\HelloWorld\HypotenuseProgram\HypotenuseProgram\HypotenuseProgram\obj\Debug\netcoreapp3.1\HypotenuseProgram.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\HypotenuseProgram\HypotenuseProgram\HypotenuseProgram\obj\Debug\netcoreapp3.1\HypotenuseProgram.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\HypotenuseProgram\HypotenuseProgram\HypotenuseProgram\obj\Debug\netcoreapp3.1\HypotenuseProgram.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\HypotenuseProgram\HypotenuseProgram\HypotenuseProgram\obj\Debug\netcoreapp3.1\HypotenuseProgram.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\HypotenuseProgram\HypotenuseProgram\HypotenuseProgram\obj\Debug\netcoreapp3.1\HypotenuseProgram.dll
+C:\Programming\C#\HelloWorld\HypotenuseProgram\HypotenuseProgram\HypotenuseProgram\obj\Debug\netcoreapp3.1\HypotenuseProgram.pdb
+C:\Programming\C#\HelloWorld\HypotenuseProgram\HypotenuseProgram\HypotenuseProgram\obj\Debug\netcoreapp3.1\HypotenuseProgram.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Programming\C#\HelloWorld\GameRockPaper\GameRockPaperScissors\GameRockPaperScissors\bin\Debug\netcoreapp3.1\GameRockPaperScissors.exe
+C:\Programming\C#\HelloWorld\GameRockPaper\GameRockPaperScissors\GameRockPaperScissors\bin\Debug\netcoreapp3.1\GameRockPaperScissors.deps.json
+C:\Programming\C#\HelloWorld\GameRockPaper\GameRockPaperScissors\GameRockPaperScissors\bin\Debug\netcoreapp3.1\GameRockPaperScissors.runtimeconfig.json
+C:\Programming\C#\HelloWorld\GameRockPaper\GameRockPaperScissors\GameRockPaperScissors\bin\Debug\netcoreapp3.1\GameRockPaperScissors.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\GameRockPaper\GameRockPaperScissors\GameRockPaperScissors\bin\Debug\netcoreapp3.1\GameRockPaperScissors.dll
+C:\Programming\C#\HelloWorld\GameRockPaper\GameRockPaperScissors\GameRockPaperScissors\bin\Debug\netcoreapp3.1\GameRockPaperScissors.pdb
+C:\Programming\C#\HelloWorld\GameRockPaper\GameRockPaperScissors\GameRockPaperScissors\obj\Debug\netcoreapp3.1\GameRockPaperScissors.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\GameRockPaper\GameRockPaperScissors\GameRockPaperScissors\obj\Debug\netcoreapp3.1\GameRockPaperScissors.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\GameRockPaper\GameRockPaperScissors\GameRockPaperScissors\obj\Debug\netcoreapp3.1\GameRockPaperScissors.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\GameRockPaper\GameRockPaperScissors\GameRockPaperScissors\obj\Debug\netcoreapp3.1\GameRockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\GameRockPaper\GameRockPaperScissors\GameRockPaperScissors\obj\Debug\netcoreapp3.1\GameRockPaperScissors.dll
+C:\Programming\C#\HelloWorld\GameRockPaper\GameRockPaperScissors\GameRockPaperScissors\obj\Debug\netcoreapp3.1\GameRockPaperScissors.pdb
+C:\Programming\C#\HelloWorld\GameRockPaper\GameRockPaperScissors\GameRockPaperScissors\obj\Debug\netcoreapp3.1\GameRockPaperScissors.genruntimeconfig.cache

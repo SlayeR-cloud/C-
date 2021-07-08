@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\StringInterpolation\StringIS\StringIC\bin\Debug\net5.0\StringIC.exe
+C:\Programming\C#\HelloWorld\StringInterpolation\StringIS\StringIC\bin\Debug\net5.0\StringIC.deps.json
+C:\Programming\C#\HelloWorld\StringInterpolation\StringIS\StringIC\bin\Debug\net5.0\StringIC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\StringInterpolation\StringIS\StringIC\bin\Debug\net5.0\StringIC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\StringInterpolation\StringIS\StringIC\bin\Debug\net5.0\StringIC.dll
+C:\Programming\C#\HelloWorld\StringInterpolation\StringIS\StringIC\bin\Debug\net5.0\ref\StringIC.dll
+C:\Programming\C#\HelloWorld\StringInterpolation\StringIS\StringIC\bin\Debug\net5.0\StringIC.pdb
+C:\Programming\C#\HelloWorld\StringInterpolation\StringIS\StringIC\obj\Debug\net5.0\StringIC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\StringInterpolation\StringIS\StringIC\obj\Debug\net5.0\StringIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\StringInterpolation\StringIS\StringIC\obj\Debug\net5.0\StringIC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\StringInterpolation\StringIS\StringIC\obj\Debug\net5.0\StringIC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\StringInterpolation\StringIS\StringIC\obj\Debug\net5.0\StringIC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\StringInterpolation\StringIS\StringIC\obj\Debug\net5.0\StringIC.dll
+C:\Programming\C#\HelloWorld\StringInterpolation\StringIS\StringIC\obj\Debug\net5.0\ref\StringIC.dll
+C:\Programming\C#\HelloWorld\StringInterpolation\StringIS\StringIC\obj\Debug\net5.0\StringIC.pdb
+C:\Programming\C#\HelloWorld\StringInterpolation\StringIS\StringIC\obj\Debug\net5.0\StringIC.genruntimeconfig.cache

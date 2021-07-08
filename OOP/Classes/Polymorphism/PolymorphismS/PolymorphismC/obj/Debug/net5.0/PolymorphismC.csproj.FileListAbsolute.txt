@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\OOP\Classes\Polymorphism\PolymorphismS\PolymorphismC\bin\Debug\net5.0\PolymorphismC.exe
+C:\Programming\C#\HelloWorld\OOP\Classes\Polymorphism\PolymorphismS\PolymorphismC\bin\Debug\net5.0\PolymorphismC.deps.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Polymorphism\PolymorphismS\PolymorphismC\bin\Debug\net5.0\PolymorphismC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Polymorphism\PolymorphismS\PolymorphismC\bin\Debug\net5.0\PolymorphismC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Polymorphism\PolymorphismS\PolymorphismC\bin\Debug\net5.0\PolymorphismC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Polymorphism\PolymorphismS\PolymorphismC\bin\Debug\net5.0\ref\PolymorphismC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Polymorphism\PolymorphismS\PolymorphismC\bin\Debug\net5.0\PolymorphismC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\Polymorphism\PolymorphismS\PolymorphismC\obj\Debug\net5.0\PolymorphismC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Polymorphism\PolymorphismS\PolymorphismC\obj\Debug\net5.0\PolymorphismC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\OOP\Classes\Polymorphism\PolymorphismS\PolymorphismC\obj\Debug\net5.0\PolymorphismC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Polymorphism\PolymorphismS\PolymorphismC\obj\Debug\net5.0\PolymorphismC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\OOP\Classes\Polymorphism\PolymorphismS\PolymorphismC\obj\Debug\net5.0\PolymorphismC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Polymorphism\PolymorphismS\PolymorphismC\obj\Debug\net5.0\PolymorphismC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Polymorphism\PolymorphismS\PolymorphismC\obj\Debug\net5.0\ref\PolymorphismC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Polymorphism\PolymorphismS\PolymorphismC\obj\Debug\net5.0\PolymorphismC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\Polymorphism\PolymorphismS\PolymorphismC\obj\Debug\net5.0\PolymorphismC.genruntimeconfig.cache

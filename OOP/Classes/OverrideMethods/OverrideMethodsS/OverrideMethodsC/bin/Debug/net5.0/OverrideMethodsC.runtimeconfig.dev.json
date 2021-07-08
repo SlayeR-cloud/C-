@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ssayl\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ssayl\\.nuget\\packages"
+    ]
+  }
+}

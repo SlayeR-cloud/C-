@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\CalculatorProgram\CalculatorP\CalculatorApp\bin\Debug\net5.0\CalculatorApp.exe
+C:\Programming\C#\HelloWorld\CalculatorProgram\CalculatorP\CalculatorApp\bin\Debug\net5.0\CalculatorApp.deps.json
+C:\Programming\C#\HelloWorld\CalculatorProgram\CalculatorP\CalculatorApp\bin\Debug\net5.0\CalculatorApp.runtimeconfig.json
+C:\Programming\C#\HelloWorld\CalculatorProgram\CalculatorP\CalculatorApp\bin\Debug\net5.0\CalculatorApp.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\CalculatorProgram\CalculatorP\CalculatorApp\bin\Debug\net5.0\CalculatorApp.dll
+C:\Programming\C#\HelloWorld\CalculatorProgram\CalculatorP\CalculatorApp\bin\Debug\net5.0\ref\CalculatorApp.dll
+C:\Programming\C#\HelloWorld\CalculatorProgram\CalculatorP\CalculatorApp\bin\Debug\net5.0\CalculatorApp.pdb
+C:\Programming\C#\HelloWorld\CalculatorProgram\CalculatorP\CalculatorApp\obj\Debug\net5.0\CalculatorApp.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\CalculatorProgram\CalculatorP\CalculatorApp\obj\Debug\net5.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\CalculatorProgram\CalculatorP\CalculatorApp\obj\Debug\net5.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\CalculatorProgram\CalculatorP\CalculatorApp\obj\Debug\net5.0\CalculatorApp.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\CalculatorProgram\CalculatorP\CalculatorApp\obj\Debug\net5.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\CalculatorProgram\CalculatorP\CalculatorApp\obj\Debug\net5.0\CalculatorApp.dll
+C:\Programming\C#\HelloWorld\CalculatorProgram\CalculatorP\CalculatorApp\obj\Debug\net5.0\ref\CalculatorApp.dll
+C:\Programming\C#\HelloWorld\CalculatorProgram\CalculatorP\CalculatorApp\obj\Debug\net5.0\CalculatorApp.pdb
+C:\Programming\C#\HelloWorld\CalculatorProgram\CalculatorP\CalculatorApp\obj\Debug\net5.0\CalculatorApp.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\Exceptions\ExceptionS\ExceptionC\bin\Debug\net5.0\ExceptionC.exe
+C:\Programming\C#\HelloWorld\Exceptions\ExceptionS\ExceptionC\bin\Debug\net5.0\ExceptionC.deps.json
+C:\Programming\C#\HelloWorld\Exceptions\ExceptionS\ExceptionC\bin\Debug\net5.0\ExceptionC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\Exceptions\ExceptionS\ExceptionC\bin\Debug\net5.0\ExceptionC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\Exceptions\ExceptionS\ExceptionC\bin\Debug\net5.0\ExceptionC.dll
+C:\Programming\C#\HelloWorld\Exceptions\ExceptionS\ExceptionC\bin\Debug\net5.0\ref\ExceptionC.dll
+C:\Programming\C#\HelloWorld\Exceptions\ExceptionS\ExceptionC\bin\Debug\net5.0\ExceptionC.pdb
+C:\Programming\C#\HelloWorld\Exceptions\ExceptionS\ExceptionC\obj\Debug\net5.0\ExceptionC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\Exceptions\ExceptionS\ExceptionC\obj\Debug\net5.0\ExceptionC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\Exceptions\ExceptionS\ExceptionC\obj\Debug\net5.0\ExceptionC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\Exceptions\ExceptionS\ExceptionC\obj\Debug\net5.0\ExceptionC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\Exceptions\ExceptionS\ExceptionC\obj\Debug\net5.0\ExceptionC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\Exceptions\ExceptionS\ExceptionC\obj\Debug\net5.0\ExceptionC.dll
+C:\Programming\C#\HelloWorld\Exceptions\ExceptionS\ExceptionC\obj\Debug\net5.0\ref\ExceptionC.dll
+C:\Programming\C#\HelloWorld\Exceptions\ExceptionS\ExceptionC\obj\Debug\net5.0\ExceptionC.pdb
+C:\Programming\C#\HelloWorld\Exceptions\ExceptionS\ExceptionC\obj\Debug\net5.0\ExceptionC.genruntimeconfig.cache

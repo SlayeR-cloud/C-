@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\OOP\Classes\ArrayObjects\ArrayObjectsS\ArrayObjectsC\bin\Debug\net5.0\ArrayObjectsC.exe
+C:\Programming\C#\HelloWorld\OOP\Classes\ArrayObjects\ArrayObjectsS\ArrayObjectsC\bin\Debug\net5.0\ArrayObjectsC.deps.json
+C:\Programming\C#\HelloWorld\OOP\Classes\ArrayObjects\ArrayObjectsS\ArrayObjectsC\bin\Debug\net5.0\ArrayObjectsC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\OOP\Classes\ArrayObjects\ArrayObjectsS\ArrayObjectsC\bin\Debug\net5.0\ArrayObjectsC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\OOP\Classes\ArrayObjects\ArrayObjectsS\ArrayObjectsC\bin\Debug\net5.0\ArrayObjectsC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\ArrayObjects\ArrayObjectsS\ArrayObjectsC\bin\Debug\net5.0\ref\ArrayObjectsC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\ArrayObjects\ArrayObjectsS\ArrayObjectsC\bin\Debug\net5.0\ArrayObjectsC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\ArrayObjects\ArrayObjectsS\ArrayObjectsC\obj\Debug\net5.0\ArrayObjectsC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\ArrayObjects\ArrayObjectsS\ArrayObjectsC\obj\Debug\net5.0\ArrayObjectsC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\OOP\Classes\ArrayObjects\ArrayObjectsS\ArrayObjectsC\obj\Debug\net5.0\ArrayObjectsC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\ArrayObjects\ArrayObjectsS\ArrayObjectsC\obj\Debug\net5.0\ArrayObjectsC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\OOP\Classes\ArrayObjects\ArrayObjectsS\ArrayObjectsC\obj\Debug\net5.0\ArrayObjectsC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\ArrayObjects\ArrayObjectsS\ArrayObjectsC\obj\Debug\net5.0\ArrayObjectsC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\ArrayObjects\ArrayObjectsS\ArrayObjectsC\obj\Debug\net5.0\ref\ArrayObjectsC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\ArrayObjects\ArrayObjectsS\ArrayObjectsC\obj\Debug\net5.0\ArrayObjectsC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\ArrayObjects\ArrayObjectsS\ArrayObjectsC\obj\Debug\net5.0\ArrayObjectsC.genruntimeconfig.cache

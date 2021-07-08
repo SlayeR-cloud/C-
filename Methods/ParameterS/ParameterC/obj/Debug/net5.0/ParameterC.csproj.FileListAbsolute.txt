@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\Methods\ParameterS\ParameterC\bin\Debug\net5.0\ParameterC.exe
+C:\Programming\C#\HelloWorld\Methods\ParameterS\ParameterC\bin\Debug\net5.0\ParameterC.deps.json
+C:\Programming\C#\HelloWorld\Methods\ParameterS\ParameterC\bin\Debug\net5.0\ParameterC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\Methods\ParameterS\ParameterC\bin\Debug\net5.0\ParameterC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\Methods\ParameterS\ParameterC\bin\Debug\net5.0\ParameterC.dll
+C:\Programming\C#\HelloWorld\Methods\ParameterS\ParameterC\bin\Debug\net5.0\ref\ParameterC.dll
+C:\Programming\C#\HelloWorld\Methods\ParameterS\ParameterC\bin\Debug\net5.0\ParameterC.pdb
+C:\Programming\C#\HelloWorld\Methods\ParameterS\ParameterC\obj\Debug\net5.0\ParameterC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\Methods\ParameterS\ParameterC\obj\Debug\net5.0\ParameterC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\Methods\ParameterS\ParameterC\obj\Debug\net5.0\ParameterC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\Methods\ParameterS\ParameterC\obj\Debug\net5.0\ParameterC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\Methods\ParameterS\ParameterC\obj\Debug\net5.0\ParameterC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\Methods\ParameterS\ParameterC\obj\Debug\net5.0\ParameterC.dll
+C:\Programming\C#\HelloWorld\Methods\ParameterS\ParameterC\obj\Debug\net5.0\ref\ParameterC.dll
+C:\Programming\C#\HelloWorld\Methods\ParameterS\ParameterC\obj\Debug\net5.0\ParameterC.pdb
+C:\Programming\C#\HelloWorld\Methods\ParameterS\ParameterC\obj\Debug\net5.0\ParameterC.genruntimeconfig.cache

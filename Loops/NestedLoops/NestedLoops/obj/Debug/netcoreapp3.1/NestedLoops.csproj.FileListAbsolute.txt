@@ -1,0 +1,13 @@
+C:\Programming\C#\HelloWorld\Loops\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\NestedLoops.exe
+C:\Programming\C#\HelloWorld\Loops\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\NestedLoops.deps.json
+C:\Programming\C#\HelloWorld\Loops\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\NestedLoops.runtimeconfig.json
+C:\Programming\C#\HelloWorld\Loops\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\NestedLoops.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\Loops\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\NestedLoops.dll
+C:\Programming\C#\HelloWorld\Loops\NestedLoops\NestedLoops\bin\Debug\netcoreapp3.1\NestedLoops.pdb
+C:\Programming\C#\HelloWorld\Loops\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\NestedLoops.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\Loops\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\NestedLoops.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\Loops\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\NestedLoops.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\Loops\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\NestedLoops.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\Loops\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\NestedLoops.dll
+C:\Programming\C#\HelloWorld\Loops\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\NestedLoops.pdb
+C:\Programming\C#\HelloWorld\Loops\NestedLoops\NestedLoops\obj\Debug\netcoreapp3.1\NestedLoops.genruntimeconfig.cache

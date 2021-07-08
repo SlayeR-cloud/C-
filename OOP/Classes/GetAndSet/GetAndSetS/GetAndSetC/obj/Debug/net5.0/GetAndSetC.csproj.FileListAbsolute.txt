@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\OOP\Classes\GetAndSet\GetAndSetS\GetAndSetC\bin\Debug\net5.0\GetAndSetC.exe
+C:\Programming\C#\HelloWorld\OOP\Classes\GetAndSet\GetAndSetS\GetAndSetC\bin\Debug\net5.0\GetAndSetC.deps.json
+C:\Programming\C#\HelloWorld\OOP\Classes\GetAndSet\GetAndSetS\GetAndSetC\bin\Debug\net5.0\GetAndSetC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\OOP\Classes\GetAndSet\GetAndSetS\GetAndSetC\bin\Debug\net5.0\GetAndSetC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\OOP\Classes\GetAndSet\GetAndSetS\GetAndSetC\bin\Debug\net5.0\GetAndSetC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\GetAndSet\GetAndSetS\GetAndSetC\bin\Debug\net5.0\ref\GetAndSetC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\GetAndSet\GetAndSetS\GetAndSetC\bin\Debug\net5.0\GetAndSetC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\GetAndSet\GetAndSetS\GetAndSetC\obj\Debug\net5.0\GetAndSetC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\GetAndSet\GetAndSetS\GetAndSetC\obj\Debug\net5.0\GetAndSetC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\OOP\Classes\GetAndSet\GetAndSetS\GetAndSetC\obj\Debug\net5.0\GetAndSetC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\GetAndSet\GetAndSetS\GetAndSetC\obj\Debug\net5.0\GetAndSetC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\OOP\Classes\GetAndSet\GetAndSetS\GetAndSetC\obj\Debug\net5.0\GetAndSetC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\GetAndSet\GetAndSetS\GetAndSetC\obj\Debug\net5.0\GetAndSetC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\GetAndSet\GetAndSetS\GetAndSetC\obj\Debug\net5.0\ref\GetAndSetC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\GetAndSet\GetAndSetS\GetAndSetC\obj\Debug\net5.0\GetAndSetC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\GetAndSet\GetAndSetS\GetAndSetC\obj\Debug\net5.0\GetAndSetC.genruntimeconfig.cache

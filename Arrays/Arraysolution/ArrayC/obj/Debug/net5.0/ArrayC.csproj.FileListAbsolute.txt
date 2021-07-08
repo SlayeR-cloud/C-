@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\Arrays\Arraysolution\ArrayC\bin\Debug\net5.0\ArrayC.exe
+C:\Programming\C#\HelloWorld\Arrays\Arraysolution\ArrayC\bin\Debug\net5.0\ArrayC.deps.json
+C:\Programming\C#\HelloWorld\Arrays\Arraysolution\ArrayC\bin\Debug\net5.0\ArrayC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\Arrays\Arraysolution\ArrayC\bin\Debug\net5.0\ArrayC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\Arrays\Arraysolution\ArrayC\bin\Debug\net5.0\ArrayC.dll
+C:\Programming\C#\HelloWorld\Arrays\Arraysolution\ArrayC\bin\Debug\net5.0\ref\ArrayC.dll
+C:\Programming\C#\HelloWorld\Arrays\Arraysolution\ArrayC\bin\Debug\net5.0\ArrayC.pdb
+C:\Programming\C#\HelloWorld\Arrays\Arraysolution\ArrayC\obj\Debug\net5.0\ArrayC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\Arrays\Arraysolution\ArrayC\obj\Debug\net5.0\ArrayC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\Arrays\Arraysolution\ArrayC\obj\Debug\net5.0\ArrayC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\Arrays\Arraysolution\ArrayC\obj\Debug\net5.0\ArrayC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\Arrays\Arraysolution\ArrayC\obj\Debug\net5.0\ArrayC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\Arrays\Arraysolution\ArrayC\obj\Debug\net5.0\ArrayC.dll
+C:\Programming\C#\HelloWorld\Arrays\Arraysolution\ArrayC\obj\Debug\net5.0\ref\ArrayC.dll
+C:\Programming\C#\HelloWorld\Arrays\Arraysolution\ArrayC\obj\Debug\net5.0\ArrayC.pdb
+C:\Programming\C#\HelloWorld\Arrays\Arraysolution\ArrayC\obj\Debug\net5.0\ArrayC.genruntimeconfig.cache

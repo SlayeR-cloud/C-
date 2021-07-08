@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\OOP\Classes\ClassesS\ClassesC\bin\Debug\net5.0\ClassesC.exe
+C:\Programming\C#\HelloWorld\OOP\Classes\ClassesS\ClassesC\bin\Debug\net5.0\ClassesC.deps.json
+C:\Programming\C#\HelloWorld\OOP\Classes\ClassesS\ClassesC\bin\Debug\net5.0\ClassesC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\OOP\Classes\ClassesS\ClassesC\bin\Debug\net5.0\ClassesC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\OOP\Classes\ClassesS\ClassesC\bin\Debug\net5.0\ClassesC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\ClassesS\ClassesC\bin\Debug\net5.0\ref\ClassesC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\ClassesS\ClassesC\bin\Debug\net5.0\ClassesC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\ClassesS\ClassesC\obj\Debug\net5.0\ClassesC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\ClassesS\ClassesC\obj\Debug\net5.0\ClassesC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\OOP\Classes\ClassesS\ClassesC\obj\Debug\net5.0\ClassesC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\ClassesS\ClassesC\obj\Debug\net5.0\ClassesC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\OOP\Classes\ClassesS\ClassesC\obj\Debug\net5.0\ClassesC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\ClassesS\ClassesC\obj\Debug\net5.0\ClassesC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\ClassesS\ClassesC\obj\Debug\net5.0\ref\ClassesC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\ClassesS\ClassesC\obj\Debug\net5.0\ClassesC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\ClassesS\ClassesC\obj\Debug\net5.0\ClassesC.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Programming\C#\HelloWorld\IfStatements\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\IfStatements\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\IfStatements\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\IfStatements\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\IfStatements\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.exe
+C:\Programming\C#\HelloWorld\IfStatements\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.deps.json
+C:\Programming\C#\HelloWorld\IfStatements\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.runtimeconfig.json
+C:\Programming\C#\HelloWorld\IfStatements\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\IfStatements\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.dll
+C:\Programming\C#\HelloWorld\IfStatements\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.pdb
+C:\Programming\C#\HelloWorld\IfStatements\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.dll
+C:\Programming\C#\HelloWorld\IfStatements\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.pdb
+C:\Programming\C#\HelloWorld\IfStatements\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.genruntimeconfig.cache

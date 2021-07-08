@@ -1,0 +1,13 @@
+C:\Programming\C#\HelloWorld\RandomNumbers\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.exe
+C:\Programming\C#\HelloWorld\RandomNumbers\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.deps.json
+C:\Programming\C#\HelloWorld\RandomNumbers\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.runtimeconfig.json
+C:\Programming\C#\HelloWorld\RandomNumbers\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\RandomNumbers\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.dll
+C:\Programming\C#\HelloWorld\RandomNumbers\RandomNumbers\RandomNumbers\bin\Debug\netcoreapp3.1\RandomNumbers.pdb
+C:\Programming\C#\HelloWorld\RandomNumbers\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\RandomNumbers\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\RandomNumbers\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\RandomNumbers\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\RandomNumbers\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.dll
+C:\Programming\C#\HelloWorld\RandomNumbers\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.pdb
+C:\Programming\C#\HelloWorld\RandomNumbers\RandomNumbers\RandomNumbers\obj\Debug\netcoreapp3.1\RandomNumbers.genruntimeconfig.cache

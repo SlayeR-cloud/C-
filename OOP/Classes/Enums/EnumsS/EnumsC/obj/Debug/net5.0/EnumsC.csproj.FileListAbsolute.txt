@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\OOP\Classes\Enums\EnumsS\EnumsC\bin\Debug\net5.0\EnumsC.exe
+C:\Programming\C#\HelloWorld\OOP\Classes\Enums\EnumsS\EnumsC\bin\Debug\net5.0\EnumsC.deps.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Enums\EnumsS\EnumsC\bin\Debug\net5.0\EnumsC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Enums\EnumsS\EnumsC\bin\Debug\net5.0\EnumsC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Enums\EnumsS\EnumsC\bin\Debug\net5.0\EnumsC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Enums\EnumsS\EnumsC\bin\Debug\net5.0\ref\EnumsC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Enums\EnumsS\EnumsC\bin\Debug\net5.0\EnumsC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\Enums\EnumsS\EnumsC\obj\Debug\net5.0\EnumsC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Enums\EnumsS\EnumsC\obj\Debug\net5.0\EnumsC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\OOP\Classes\Enums\EnumsS\EnumsC\obj\Debug\net5.0\EnumsC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Enums\EnumsS\EnumsC\obj\Debug\net5.0\EnumsC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\OOP\Classes\Enums\EnumsS\EnumsC\obj\Debug\net5.0\EnumsC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Enums\EnumsS\EnumsC\obj\Debug\net5.0\EnumsC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Enums\EnumsS\EnumsC\obj\Debug\net5.0\ref\EnumsC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Enums\EnumsS\EnumsC\obj\Debug\net5.0\EnumsC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\Enums\EnumsS\EnumsC\obj\Debug\net5.0\EnumsC.genruntimeconfig.cache

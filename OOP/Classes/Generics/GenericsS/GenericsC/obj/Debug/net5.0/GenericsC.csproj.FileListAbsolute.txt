@@ -1,0 +1,16 @@
+C:\Programming\C#\HelloWorld\OOP\Classes\Generics\GenericsS\GenericsC\bin\Debug\net5.0\GenericsC.exe
+C:\Programming\C#\HelloWorld\OOP\Classes\Generics\GenericsS\GenericsC\bin\Debug\net5.0\GenericsC.deps.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Generics\GenericsS\GenericsC\bin\Debug\net5.0\GenericsC.runtimeconfig.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Generics\GenericsS\GenericsC\bin\Debug\net5.0\GenericsC.runtimeconfig.dev.json
+C:\Programming\C#\HelloWorld\OOP\Classes\Generics\GenericsS\GenericsC\bin\Debug\net5.0\GenericsC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Generics\GenericsS\GenericsC\bin\Debug\net5.0\ref\GenericsC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Generics\GenericsS\GenericsC\bin\Debug\net5.0\GenericsC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\Generics\GenericsS\GenericsC\obj\Debug\net5.0\GenericsC.csproj.AssemblyReference.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Generics\GenericsS\GenericsC\obj\Debug\net5.0\GenericsC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\HelloWorld\OOP\Classes\Generics\GenericsS\GenericsC\obj\Debug\net5.0\GenericsC.AssemblyInfoInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Generics\GenericsS\GenericsC\obj\Debug\net5.0\GenericsC.AssemblyInfo.cs
+C:\Programming\C#\HelloWorld\OOP\Classes\Generics\GenericsS\GenericsC\obj\Debug\net5.0\GenericsC.csproj.CoreCompileInputs.cache
+C:\Programming\C#\HelloWorld\OOP\Classes\Generics\GenericsS\GenericsC\obj\Debug\net5.0\GenericsC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Generics\GenericsS\GenericsC\obj\Debug\net5.0\ref\GenericsC.dll
+C:\Programming\C#\HelloWorld\OOP\Classes\Generics\GenericsS\GenericsC\obj\Debug\net5.0\GenericsC.pdb
+C:\Programming\C#\HelloWorld\OOP\Classes\Generics\GenericsS\GenericsC\obj\Debug\net5.0\GenericsC.genruntimeconfig.cache
